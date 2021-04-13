@@ -1,0 +1,11 @@
+.productCard{
+    border-radius: 10px;
+    padding: 25px;
+    margin: 2px;
+    text-align:center;
+    box-shadow: 5px 5px 15px rgb(90, 85, 85);
+}
+.imgSize{
+    width:250px;
+    height:250px;
+}

@@ -1,0 +1,19 @@
+.googleImg{
+    width:50px;
+    padding-right: 25px;
+}
+.googleBtn{
+    border-radius: 10px;
+    border: none;
+    margin-top: 25px;
+    padding: 10px;
+    font-size: medium;
+    color: rgb(45, 158, 45);
+    background-color: rgb(226, 215, 215);
+    box-shadow: 3px 3px 10px rgb(204, 197, 197);
+}
+.googleBtn:hover{
+    color: rgb(18, 87, 18);
+    background-color: rgb(201, 184, 184);
+    box-shadow: 5px 5px 15px rgb(177, 168, 168);
+}
