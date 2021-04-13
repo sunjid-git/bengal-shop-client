@@ -2,9 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './Event.css'
 const Event = ({event}) => {
-    // const deleteEvent = id => {
 
-    // }
     return (
 
     <div className="col-md-4">
@@ -26,15 +24,6 @@ const Event = ({event}) => {
         </div>
     </div>
 
-
-      
-        //     {/* <h3>
-            
-        //         <button onClick={()=> deleteEvent(event._id)}>Delete</button> 
-        //     </h3>  */}
-            
-        // </div>
- 
     );
 };
 
