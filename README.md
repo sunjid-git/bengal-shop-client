@@ -14,7 +14,9 @@ Functionality
 ## Deals
 ## Login
 
-
+#Database - MongoDB 
+#Login System
+#image upload with others info
 
 Note: The project has not been completed yet for some reasons...
 In Future the developer will update the features.
