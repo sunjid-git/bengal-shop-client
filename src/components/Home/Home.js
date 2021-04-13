@@ -7,7 +7,7 @@ const Home = () => {
     const [loading, setLoading] = useState(true)
     const [events, setEvents] = useState([])
     useEffect(() => {
-        fetch('http://localhost:5055/events')
+        fetch('https://obscure-mountain-99784.herokuapp.com/events')
         .then(res => res.json())
         .then(data => 
             {

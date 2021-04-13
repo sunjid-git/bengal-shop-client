@@ -14,7 +14,7 @@ const AddEvents = () => {
             price: data.price,
             imageURL: imageURL
         };
-        const url = `http://localhost:5055/addEvent`;
+        const url = `https://obscure-mountain-99784.herokuapp.com/addEvent`;
         
         fetch(url, {
             method: 'POST',

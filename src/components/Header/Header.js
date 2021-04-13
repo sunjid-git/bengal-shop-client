@@ -17,7 +17,7 @@ const Header = () => {
                 <p className="nav-link active"><Link to={`/home`}>Home </Link></p>
 
                 <p className="nav-link active"><Link to={`/orders`}>Orders</Link></p>
-                <p className="nav-link active"><Link to={`/admin`}>Admin</Link></p>
+                <p className="nav-link active"><Link to={`/login`}>Admin</Link></p>
                 <p className="nav-link active"><Link to={`/deals`}>Deals</Link></p>
                 <p className="nav-link active" ><Link to={`/login`}>
                     <button className="bg-success rounded"> 
