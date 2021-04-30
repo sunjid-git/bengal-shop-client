@@ -1,10 +1,10 @@
 ### Bengal Shop - Client Side
 
-### Bengal Shop [Live](https://bengalshop-buy.web.app/home)
-
-### API For The Product
+### [Live](https://bengalshop-buy.web.app/home)
+### [Server](https://github.com/sunjid-git/bengal-shop-server)
 ## [API](https://obscure-mountain-99784.herokuapp.com/events)
 
+### Bengal Shop 
 It is a online grocery shop. 
 
 Functionality
