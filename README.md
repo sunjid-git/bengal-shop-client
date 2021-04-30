@@ -1,4 +1,4 @@
-### Bengal Shop - Client Side
+### Bengal Shop - Client Site
 
 ### [Live](https://bengalshop-buy.web.app/home)
 ### [Server](https://github.com/sunjid-git/bengal-shop-server)
