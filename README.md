@@ -20,3 +20,5 @@
 4. Express.js
 5. Node.js
 6. Firebase
+
+### `Deployment - Firebase Hosting`
